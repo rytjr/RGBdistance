@@ -15,7 +15,7 @@ public class RGBditance {
 		
 		Scanner in = new Scanner(System.in);
 		
-		int N = in.nextInt();
+		int N = in.nextInt(); 
         
 		Cost = new int[N][3];
 		DP = new int[N][3];
